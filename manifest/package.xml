@@ -32,5 +32,9 @@
         <members>*</members>
         <name>StaticResource</name>
     </types>
+    <types>
+    <members>CaseType</members>
+    <name>StandardValueSet</name>
+</types>
     <version>63.0</version>
 </Package>
